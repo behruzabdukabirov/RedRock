@@ -1,0 +1,1946 @@
+
+@media (min-width: 768px),(max-width: 1440px) {
+
+    body{
+        background: #0E112D;
+        position: relative;
+    }
+
+    .logo{
+        position: absolute;
+        left: 150px;
+        top: 45px;
+        width: 150px;
+    }
+
+    .nav-bt{
+        position: absolute;
+        width: 121px;
+        height: 44px;
+        left: 1100px;
+        top: 45px;
+        padding: 0;
+        background: #564FFF;
+        border: 1px solid #564FFF;
+        border-radius: 5px;
+        font-family: 'TT Interfaces',sans-serif;
+        font-style: normal;
+        font-weight: 800;
+        font-size: 14px;
+        line-height: 18px;
+        /* identical to box height */
+
+
+        color: #FFFFFF;
+
+    }
+
+    .nav-bt2{
+        position: absolute;
+        width: 155px;
+        height: 44px;
+        left: 1250px;
+        top: 45px;
+        font-family: 'TT Interfaces',sans-serif;
+        font-style: normal;
+        font-weight: 800;
+        font-size: 14px;
+        line-height: 18px;
+        /* identical to box height */
+
+
+        color: #FFFFFF;
+
+        background: rgba(86, 79, 255, 0.15);
+        border: 1px solid #564FFF;
+        border-radius: 5px
+    }
+
+    .yengi{
+        position: absolute;
+        width: 656px;
+        height: 72px;
+        left: 150.63px;
+        top: 214px;
+
+        font-family: 'TT Interfaces',sans-serif;
+        font-style: normal;
+        font-weight: 800;
+        font-size: 48px;
+        line-height: 72px;
+        /* identical to box height */
+
+
+        color: #FFFFFF;
+    }
+
+    .vu{
+        position: absolute;
+        width: 563px;
+        height: 86px;
+        left: 150.63px;
+        top: 300px;
+
+        font-family: 'TT Interfaces',sans-serif;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 26px;
+
+        color: #A7A7C8;
+
+    }
+    .igrok{
+        position: absolute;
+        width: 238px;
+        height: 46px;
+        left: 150.63px;
+        top: 442px;
+
+        font-family: 'TT Interfaces',sans-serif;
+        font-style: normal;
+        font-weight: 800;
+        font-size: 36px;
+        line-height: 46px;
+
+        color: #FFFFFF;
+    }
+
+    .igrokp{
+        position: absolute;
+        width: 181px;
+        height: 40px;
+        left: 150.63px;
+        top: 498px;
+
+        font-family: 'TT Interfaces',sans-serif;
+        font-style: normal;
+        font-weight: 600;
+        font-size: 20px;
+        line-height: 20px;
+
+        background: linear-gradient(119.36deg, #18BAFF 19.35%, #4500D9 126.51%);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+
+
+    }
+
+    .pople{
+        position: absolute;
+        width: 141px;
+        height: 46px;
+        left: 445.63px;
+        top: 442px;
+
+        font-family: 'TT Interfaces0',sans-serif;
+        font-style: normal;
+        font-weight: 800;
+        font-size: 36px;
+        line-height: 46px;
+
+        color: #FFFFFF;
+    }
+
+    .poplep{
+        position: absolute;
+        width: 184px;
+        height: 40px;
+        left: 445.63px;
+        top: 498px;
+
+        font-family: 'TT Interfaces',sans-serif;
+        font-style: normal;
+        font-weight: 600;
+        font-size: 20px;
+        line-height: 20px;
+
+        background: linear-gradient(119.36deg, #18BAFF 19.35%, #4500D9 126.51%);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+
+    }
+
+    .pubgm{
+        position: absolute;
+        width: 774px;
+        height: 509px;
+        left: 738.63px;
+        top: 164px;
+
+        /*background: url(image.png);*/
+        mix-blend-mode: lighten;
+    }
+
+    .kaku{
+        position: absolute;
+        width: 682px;
+        height: 46px;
+        left: 408px;
+        top: 736px;
+
+        font-family: 'TT Interfaces',sans-serif;
+        font-style: normal;
+        font-weight: 800;
+        font-size: 36px;
+        line-height: 46px;
+
+        color: #FFFFFF;
+    }
+
+    .card{
+        position: absolute;
+        width: 388px;
+        height: 229px;
+        left: 100px;
+        top: 916px;
+
+        background: linear-gradient(180deg, #1E2242 27.07%, rgba(30, 34, 66, 0) 100%);
+    }
+
+    .card img{
+        position: absolute;
+        width: 66px;
+        height: 66px;
+        left: 10px;
+        top: -19px;
+
+        /*background: url(image.png);*/
+    }
+
+    .card h4{
+        position: absolute;
+        width: 364px;
+        height: 31px;
+        left: 23px;
+        top: 65px;
+        font-family: 'TT Interfaces',sans-serif;
+        font-style: normal;
+        font-weight: 800;
+        font-size: 24px;
+        line-height: 31px;
+        /* identical to box height */
+
+
+        color: #FFFFFF;
+
+    }
+
+    .card p{
+        position: absolute;
+        width: 329px;
+        height: 74px;
+        left: 25px;
+        top: 120px;
+
+        font-family: 'TT Interfaces',sans-serif;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 15px;
+        line-height: 20px;
+
+        color: #A7A7C8;
+
+    }
+
+    .cardd{
+        position: absolute;
+        width: 388px;
+        height: 229px;
+        left: 570px;
+        top: 916px;
+
+        background: linear-gradient(180deg, #1E2242 27.07%, rgba(30, 34, 66, 0) 100%);
+    }
+
+    .cardd img{
+        position: absolute;
+        width: 66px;
+        height: 66px;
+        left: 10px;
+        top: -19px;
+    }
+
+    .cardd h4{
+        position: absolute;
+        width: 364px;
+        height: 31px;
+        left: 23px;
+        top: 65px;
+        font-family: 'TT Interfaces',sans-serif;
+        font-style: normal;
+        font-weight: 800;
+        font-size: 24px;
+        line-height: 31px;
+        /* identical to box height */
+
+
+        color: #FFFFFF;
+    }
+
+    .cardd p{
+        position: absolute;
+        width: 329px;
+        height: 74px;
+        left: 25px;
+        top: 120px;
+
+        font-family: 'TT Interfaces',sans-serif;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 15px;
+        line-height: 20px;
+
+        color: #A7A7C8;
+    }
+
+    .carddd{
+        position: absolute;
+        width: 388px;
+        height: 229px;
+        left: 1030px;
+        top: 916px;
+
+        background: linear-gradient(180deg, #1E2242 27.07%, rgba(30, 34, 66, 0) 100%);
+    }
+
+    .carddd img{
+        position: absolute;
+        width: 66px;
+        height: 66px;
+        left: 10px;
+        top: -19px;
+    }
+
+    .carddd h4{
+        position: absolute;
+        width: 364px;
+        height: 31px;
+        left: 23px;
+        top: 65px;
+        font-family: 'TT Interfaces',sans-serif;
+        font-style: normal;
+        font-weight: 800;
+        font-size: 24px;
+        line-height: 31px;
+        /* identical to box height */
+
+
+        color: #FFFFFF;
+    }
+
+    .carddd p{
+        position: absolute;
+        width: 329px;
+        height: 74px;
+        left: 25px;
+        top: 120px;
+
+        font-family: 'TT Interfaces',sans-serif;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 15px;
+        line-height: 20px;
+
+        color: #A7A7C8;
+    }
+    .box{
+        position: absolute;
+        width: 100%;
+        height: 829px;
+        left:    0;
+        top: 1260px;
+
+        background: linear-gradient(180deg, #0E112D 50%, rgba(14, 17, 45, 0) 100%);
+    }
+    .plat{
+        position: absolute;
+        width: 623px;
+        height: 46px;
+        left: 463px;
+        top: 20px;
+
+        font-family: 'TT Interfaces',sans-serif;
+        font-style: normal;
+        font-weight: 800;
+        font-size: 36px;
+        line-height: 46px;
+
+        color: #FFFFFF;
+
+    }
+
+    .tel{
+        position: absolute;
+        width: 275.93px;
+        height: 560.51px;
+        left: 468.19px;
+        top: 200.81px;
+
+        /*background: url(.png);*/
+        transform: rotate(1.6deg);
+    }
+
+    .sam{
+        position: absolute;
+        width: 275.93px;
+        height: 560.51px;
+        left: 180.19px;
+        top: 200.81px;
+
+        /*background: url(.png);*/
+        transform: rotate(1.6deg);
+    }
+
+    .and{
+
+        position: absolute;
+        width: 123px;
+        height: 41px;
+        left: 910.63px;
+        top: 240px;
+
+        font-family: 'TT Interfaces',sans-serif;
+        font-style: normal;
+        font-weight: 800;
+        font-size: 32px;
+        line-height: 41px;
+
+        color: #FFFFFF;
+    }
+
+    .nash{
+        position: absolute;
+        width: 566px;
+        height: 86px;
+        left: 910.63px;
+        top: 300px;
+
+        font-family: 'TT Interfaces',sans-serif;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 20px;
+
+        color: #A7A7C8;
+    }
+
+    .funk{
+        position: absolute;
+        width: 112px;
+        height: 23px;
+        left: 910.63px;
+        top: 450px;
+
+        font-family: 'TT Interfaces',sans-serif;
+        font-style: normal;
+        font-weight: 600;
+        font-size: 18px;
+        line-height: 22px;
+        /* identical to box height */
+
+
+        color: #FFFFFF;
+    }
+
+    .wall{
+        position: absolute;
+        width: 566px;
+        height: 155px;
+        left: 910.63px;
+        top: 500px;
+
+        font-family: 'TT Interfaces',sans-serif;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 20px;
+
+        color: #A7A7C8;
+
+    }
+
+    .olish{
+        position: absolute;
+        width: 186px;
+        height: 56px;
+        left: 910.63px;
+        top: 700px;
+        font-family: 'TT Interfaces',sans-serif;
+        font-style: normal;
+        font-weight: 700;
+        font-size: 14px;
+        line-height: 18px;
+        /* identical to box height */
+        border: 0;
+
+        color: #FFFFFF;
+        background: #564FFF;
+        border-radius: 5px;
+    }
+
+    .esli{
+        position: absolute;
+        width: 299px;
+        height: 36px;
+        left: 1140.63px;
+        top: 710px;
+
+        font-family: 'TT Interfaces',sans-serif;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 17px;
+
+        color: #ffffff;
+
+    }
+
+    .restangle{
+        position: absolute;
+        width: 100%;
+        height: 652px;
+        top: 2080px;
+
+        background: linear-gradient(180deg, #0D0F2C 0%, rgba(13, 15, 44, 0) 50%);
+    }
+
+    .ios{
+        position: absolute;
+        width: 53px;
+        height: 41px;
+        left: 250px;
+        top: 100px;
+
+        font-family: 'TT Interfaces',sans-serif;
+        font-style: normal;
+        font-weight: 800;
+        font-size: 32px;
+        line-height: 41px;
+
+        color: #FFFFFF;
+
+    }
+
+    .iosp{
+        position: absolute;
+        width: 566px;
+        height: 86px;
+        left: 250px;
+        top: 150px;
+
+        font-family: 'TT Interfaces',sans-serif;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 24px;
+
+        color: #A7A7C8;
+
+    }
+
+    .funkh{
+        position: absolute;
+        width: 112px;
+        height: 23px;
+        left: 250.63px;
+        top: 320px;
+
+        font-family: 'TT Interfaces',sans-serif;
+        font-style: normal;
+        font-weight: 600;
+        font-size: 18px;
+        line-height: 22px;
+        /* identical to box height */
+
+
+        color: #FFFFFF;
+    }
+
+    .funkp{
+
+        position: absolute;
+        width: 566px;
+        height: 155px;
+        left: 250.63px;
+        top: 365px;
+
+        font-family: 'TT Interfaces',sans-serif;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 20px;
+
+        color: #A7A7C8;
+
+
+    }
+
+    .olish1{
+        position: absolute;
+        width: 186px;
+        height: 56px;
+        left: 250.63px;
+        top: 557px;
+        background: #564FFF;
+        border-radius: 5px;
+        font-family: 'TT Interfaces',sans-serif;
+        font-style: normal;
+        font-weight: 700;
+        font-size: 14px;
+        line-height: 18px;
+        /* identical to box height */
+
+
+        color: #FFFFFF;
+
+    }
+
+    .esli1{
+        position: absolute;
+        width: 329px;
+        height: 36px;
+        left: 460.63px;
+        top: 567px;
+
+        font-family: 'TT Interfaces',sans-serif;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 17px;
+        line-height: 18px;
+
+        color: #ffffff;
+
+    }
+
+    .iphone{
+        position: absolute;
+        width: 248px;
+        height: 535px;
+        left: 900.63px;
+        top: 102px;
+        border-radius: 15px;
+        /*background: url(.png);*/
+    }
+
+    .iphone1{
+        position: absolute;
+        width: 248px;
+        height: 535px;
+        left: 1190.63px;
+        top: 102px;
+        border-radius: 15px;
+    }
+
+    .tarifh{
+        position: absolute;
+        width: 363px;
+        height: 46px;
+        left: 609px;
+        top: 2880px;
+
+        font-family: 'TT Interfaces',sans-serif;
+        font-style: normal;
+        font-weight: 800;
+        font-size: 36px;
+        line-height: 46px;
+
+        color: #FFFFFF;
+    }
+
+    .avn{
+        position: absolute;
+        width: 189px;
+        height: 56px;
+        left: 573px;
+        top: 3000px;
+        border: 0;
+        background: #564FFF;
+
+        font-family: 'TT Interfaces',sans-serif;
+        font-style: normal;
+        font-weight: 700;
+        font-size: 17px;
+        line-height: 18px;
+        /* identical to box height */
+
+
+        color: #FFFFFF;
+
+
+        border-radius: 5px;
+    }
+
+    .avn1{
+        position: absolute;
+        width: 189px;
+        height: 56px;
+        left: 780px;
+        top: 3000px;
+        font-family: 'TT Interfaces',sans-serif;
+        font-style: normal;
+        font-weight: 700;
+        font-size: 17px;
+        line-height: 18px;
+        /* identical to box height */
+
+
+        color: #FFFFFF;
+
+        background: rgba(86, 79, 255, 0.25);
+        border: 1px solid #564FFF;
+        border-radius: 5px;
+
+    }
+
+    .tarif{
+        position: absolute;
+        width: 326px;
+        height: 456px;
+        left: 158px;
+        top:3180px;
+
+        background: linear-gradient(180deg, #1E2242 0%, rgba(30, 34, 66, 0) 100%);
+        border-radius: 5px;
+    }
+
+
+    .defa{
+        position: absolute;
+        width: 109px;
+        height: 39px;
+        left: 96px;
+        top: 20px;
+
+        font-family: 'TT Interfaces',sans-serif;
+        font-style: normal;
+        font-weight: 800;
+        font-size: 30px;
+        line-height: 39px;
+        /* identical to box height */
+
+
+        color: #FFFFFF;
+    }
+
+    .defap{
+        position: absolute;
+        width: 277px;
+        height: 128px;
+        left: 40px;
+        top: 90px;
+
+        font-family: 'TT Interfaces',sans-serif;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 18px;
+        line-height: 22px;
+
+        color: #A7A7C8;
+
+    }
+
+    .narxh{
+        position: absolute;
+        width: 176px;
+        height: 46px;
+        left: 90px;
+        top: 300px;
+
+        font-family: 'TT Interfaces',sans-serif;
+        font-style: normal;
+        font-weight: 800;
+        font-size: 36px;
+        line-height: 46px;
+
+        color: #FFFFFF;
+
+    }
+
+    .narxp{
+        position: absolute;
+        width: 64px;
+        height: 21px;
+        left:128px;
+        top: 360px;
+
+        font-family: 'TT Interfaces',sans-serif;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 17px;
+        line-height: 21px;
+        /* identical to box height */
+
+
+        color: #A7A7C8;
+
+    }
+
+    .form1{
+        position: absolute;
+        width: 325px;
+        height: 75px;
+        left: 0;
+        bottom: -13px;
+        border: 0;
+        font-family: 'TT Interfaces',sans-serif;
+        font-style: normal;
+        font-weight: 700;
+        font-size: 16px;
+        line-height: 20px;
+
+        color: #FFFFFF;
+        background: linear-gradient(106.14deg, #18BAFF 20.27%, #564FFF 78.28%);
+        border-radius: 5px;
+    }
+
+    .tarif1{
+        position: absolute;
+        width: 326px;
+        height: 456px;
+        left: 600px;
+        top:3180px;
+
+        background: linear-gradient(180deg, #1E2242 0%, rgba(30, 34, 66, 0) 100%);
+        border-radius: 5px;
+    }
+
+    .defa1{
+        position: absolute;
+        width: 109px;
+        height: 39px;
+        left: 96px;
+        top: 20px;
+        color:  #FFB800;
+
+        font-family: 'TT Interfaces',sans-serif;
+        font-style: normal;
+        font-weight: 800;
+        font-size: 30px;
+        line-height: 39px;
+        /* identical to box height */
+
+    }
+
+    .defap1{
+        position: absolute;
+        width: 277px;
+        height: 128px;
+        left: 40px;
+        top: 90px;
+
+        font-family: 'TT Interfaces',sans-serif;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 18px;
+        line-height: 22px;
+
+        color: #A7A7C8;
+    }
+
+    .narxh1{
+        position: absolute;
+        width: 176px;
+        height: 46px;
+        left: 90px;
+        top: 300px;
+
+        font-family: 'TT Interfaces',sans-serif;
+        font-style: normal;
+        font-weight: 800;
+        font-size: 36px;
+        line-height: 46px;
+
+        color: #FFFFFF;
+
+    }
+
+    .narxp1{
+        position: absolute;
+        width: 64px;
+        height: 21px;
+        left:128px;
+        top: 360px;
+
+        font-family: 'TT Interfaces',sans-serif;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 17px;
+        line-height: 21px;
+        /* identical to box height */
+        color:  #FFB800;
+
+    }
+
+    .form11{
+        position: absolute;
+        width: 325px;
+        height: 75px;
+        left: 0;
+        bottom: -13px;
+        border: 0;
+        font-family: 'TT Interfaces',sans-serif;
+        font-style: normal;
+        font-weight: 700;
+        font-size: 16px;
+        line-height: 20px;
+
+        color: #FFFFFF;
+        background: linear-gradient(106.14deg, #18BAFF 20.27%, #564FFF 78.28%);
+        border-radius: 5px;
+    }
+
+    /*-------------------------------------------------------*/
+
+
+    .tarif2{
+        position: absolute;
+        width: 326px;
+        height: 456px;
+        left: 1030px;
+        top:3180px;
+
+        background: linear-gradient(180deg, #1E2242 0%, rgba(30, 34, 66, 0) 100%);
+        border-radius: 5px;
+    }
+
+    .defa2{
+        position: absolute;
+        width: 109px;
+        height: 39px;
+        left: 96px;
+        top: 20px;
+
+        font-family: 'TT Interfaces',sans-serif;
+        font-style: normal;
+        font-weight: 800;
+        font-size: 30px;
+        line-height: 39px;
+        /* identical to box height */
+
+
+        color: #FF2525;
+    }
+
+    .defap2{
+        position: absolute;
+        width: 277px;
+        height: 128px;
+        left: 40px;
+        top: 90px;
+
+        font-family: 'TT Interfaces',sans-serif;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 18px;
+        line-height: 22px;
+
+        color: #A7A7C8;
+    }
+
+    .narxh2{
+        position: absolute;
+        width: 176px;
+        height: 46px;
+        left: 90px;
+        top: 300px;
+
+        font-family: 'TT Interfaces',sans-serif;
+        font-style: normal;
+        font-weight: 800;
+        font-size: 36px;
+        line-height: 46px;
+
+        color: #FFFFFF;
+
+    }
+
+    .narxp2{
+        position: absolute;
+        width: 64px;
+        height: 21px;
+        left:128px;
+        top: 360px;
+
+        font-family: 'TT Interfaces',sans-serif;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 17px;
+        line-height: 21px;
+        /* identical to box height */
+
+
+        color: #FF2525;
+    }
+
+    .form12{
+        position: absolute;
+        width: 325px;
+        height: 75px;
+        left: 0;
+        bottom: -13px;
+        border: 0;
+        font-family: 'TT Interfaces',sans-serif;
+        font-style: normal;
+        font-weight: 700;
+        font-size: 16px;
+        line-height: 20px;
+
+        color: #FFFFFF;
+        background: linear-gradient(106.14deg, #18BAFF 20.27%, #564FFF 78.28%);
+        border-radius: 5px;
+    }
+
+    .star{
+        position: absolute;
+        width: 75px;
+        height: 75px;
+        right: -25px;
+        top: -25px;
+    }
+
+    .kakie{
+        position: absolute;
+        width: 582px;
+        height: 46px;
+        left: 480px;
+        top: 3835px;
+
+        font-family: 'TT Interfaces',sans-serif;
+        font-style: normal;
+        font-weight: 800;
+        font-size: 36px;
+        line-height: 46px;
+
+        color: #FFFFFF;
+
+    }
+
+    .line{
+
+        position: absolute;
+        width: 1102px;
+        height: 165px;
+        left: 148px;
+        top: 4000px;
+
+        background: linear-gradient(180deg, #1E2242 0%, #1E2242 100%);
+        border-radius: 5px;
+    }
+
+    .line h4{
+        position: absolute;
+        width: 351px;
+        height: 20px;
+        left: 62px;
+        top: 35px;
+
+        font-family: 'TT Interfaces',sans-serif;
+        font-style: normal;
+        font-weight: 700;
+        font-size: 20px;
+        line-height: 20px;
+
+        color: #FFFFFF;
+
+    }
+
+    .line p{
+        position: absolute;
+        width: 872px;
+        height: 40px;
+        left: 62px;
+        top: 69px;
+
+        font-family: 'TT Interfaces',sans-serif;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 20px;
+
+        color: #A7A7C8;
+
+    }
+
+    .line1{
+        position: absolute;
+        width: 1102px;
+        height: 82px;
+        left: 148px;
+        top: 4187px;
+
+        background: linear-gradient(180deg, #1E2242 0%, #1E2242 100%);
+        border-radius: 5px;
+    }
+
+    .line1 h4{
+        position: absolute;
+        width: 351px;
+        height: 20px;
+        left: 62px;
+        top: 35px;
+
+        font-family: 'TT Interfaces',sans-serif;
+        font-style: normal;
+        font-weight: 700;
+        font-size: 20px;
+        line-height: 20px;
+
+        color: #FFFFFF;
+
+    }
+
+    .line2{
+        position: absolute;
+        width: 1102px;
+        height: 82px;
+        left: 148px;
+        top: 4287px;
+
+        background: linear-gradient(180deg, #1E2242 0%, #1E2242 100%);
+        border-radius: 5px;
+    }
+
+    .line2 h4{
+        position: absolute;
+        width: 351px;
+        height: 20px;
+        left: 62px;
+        top: 35px;
+
+        font-family: 'TT Interfaces',sans-serif;
+        font-style: normal;
+        font-weight: 700;
+        font-size: 20px;
+        line-height: 20px;
+
+        color: #FFFFFF;
+
+    }
+
+    .line3{
+        position: absolute;
+        width: 1102px;
+        height: 82px;
+        left: 148px;
+        top: 4387px;
+
+        background: linear-gradient(180deg, #1E2242 0%, #1E2242 100%);
+        border-radius: 5px;
+    }
+
+    .line3 h4{
+        position: absolute;
+        width: 351px;
+        height: 20px;
+        left: 62px;
+        top: 35px;
+
+        font-family: 'TT Interfaces',sans-serif;
+        font-style: normal;
+        font-weight: 700;
+        font-size: 20px;
+        line-height: 20px;
+
+        color: #FFFFFF;
+
+    }
+
+    .line4{
+        position: absolute;
+        width: 1102px;
+        height: 82px;
+        left: 148px;
+        top: 4487px;
+
+        background: linear-gradient(180deg, #1E2242 0%, #1E2242 100%);
+        border-radius: 5px;
+    }
+
+    .line4 h4{
+        position: absolute;
+        width: 351px;
+        height: 20px;
+        left: 62px;
+        top: 35px;
+
+        font-family: 'TT Interfaces',sans-serif;
+        font-style: normal;
+        font-weight: 700;
+        font-size: 20px;
+        line-height: 20px;
+
+        color: #FFFFFF;
+
+    }
+
+    .line1 h1{
+        color: white;
+        margin-left: 1060px;
+        margin-top: 10px;
+    }
+
+    .line2 h1{
+        color: white;
+        margin-left: 1060px;
+        margin-top: 10px;
+    }
+
+    .line3 h1{
+        color: white;
+        margin-left: 1060px;
+        margin-top: 10px;
+    }
+
+    .line4 h1{
+        color: white;
+        margin-left: 1060px;
+        margin-top: 10px;
+    }
+
+    .bt{
+
+        position: absolute;
+        width: 181px;
+        height: 64px;
+        left: 618px;
+        top: 4837px;
+        font-family: 'TT Interfaces0',sans-serif;
+        font-style: normal;
+        font-weight: 800;
+        font-size: 17px;
+        line-height: 19px;
+        /* identical to box height */
+
+
+        color: #FFFFFF;
+        background: #564FFF;
+        border: 1px solid #564FFF;
+        border-radius: 5px;
+
+    }
+
+
+    .finish{
+        position: absolute;
+        width: 952px;
+        height: 106px;
+        left: 238px;
+        top: 4927px;
+
+        font-family: 'TT Interfaces0',sans-serif;
+        font-style: normal;
+        font-weight: 700;
+        font-size: 25px;
+        line-height: 24px;
+        text-align: center;
+
+        color: #ffffff;
+    }
+}
+
+
+
+@media (max-width:767px){
+body{
+    max-width: 767px;
+}
+    .logo{
+        display: none;
+    }
+
+    .nav-bt{
+
+        position: absolute;
+        width: 195px;
+        height: 54px;
+        left: 202px;
+        top: 50px;
+
+        background: #564FFF;
+        border: 1px solid #564FFF;
+        border-radius: 5px;
+    }
+
+    .nav-bt2{
+        position: absolute;
+        width: 195px;
+        height: 54px;
+        left: 422px;
+        top: 50px;
+
+        background: rgba(86, 79, 255, 0.15);
+        border: 1px solid #564FFF;
+        border-radius: 5px;
+    }
+.pubgm{
+    position: absolute;
+    width: 469px;
+    height: 310px;
+    left: 180px;
+    top: 197px;
+
+    /*background: url(image.png);*/
+    mix-blend-mode: lighten;
+}
+
+.yengi{
+    position: absolute;
+    width: 393px;
+    height: 44px;
+    left: 185px;
+    top: 555px;
+
+    /*font-family: 'TT Interfaces';*/
+    font-style: normal;
+    font-weight: 800;
+    font-size: 34px;
+    line-height: 44px;
+    /* identical to box height */
+
+
+    color: #FFFFFF;
+}
+
+.vu{
+
+    position: absolute;
+    width: 439px;
+    height: 80px;
+    left: 155px;
+    top: 618px;
+
+    /*font-family: 'TT Interfaces',sans-serif;*/
+    font-style: normal;
+    font-weight: 500;
+    font-size: 13px;
+    line-height: 14px;
+    text-align: center;
+
+    color: #A7A7C8;
+}
+
+.igrok{
+    position: absolute;
+    width: 180px;
+    height: 33px;
+    left: 165px;
+    top: 711px;
+
+    /*font-family: 'TT Interfaces';*/
+    font-style: normal;
+    font-weight: 800;
+    font-size: 26px;
+    line-height: 33px;
+
+    color: #FFFFFF;
+}
+.igrokp{
+    position: absolute;
+    width: 99px;
+    height: 32px;
+    left: 165px;
+    top: 754px;
+
+    /*font-family: 'TT Interfaces';*/
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 16px;
+
+    background: linear-gradient(119.36deg, #18BAFF 19.35%, #4500D9 126.51%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    /*background-clip: text;*/
+    /*text-fill-color: transparent;*/
+
+
+}
+
+.pople{
+    position: absolute;
+    width: 180px;
+    height: 33px;
+    left: 485px;
+    top: 711px;
+
+    /*font-family: 'TT Interfaces';*/
+    font-style: normal;
+    font-weight: 800;
+    font-size: 26px;
+    line-height: 33px;
+
+    color: #FFFFFF;
+}
+
+.poplep{
+    position: absolute;
+    width: 99px;
+    height: 32px;
+    left: 485px;
+    top: 747px;
+
+    /*font-family: 'TT Interfaces';*/
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 16px;
+
+    background: linear-gradient(119.36deg, #18BAFF 19.35%, #4500D9 126.51%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    /*background-clip: text;*/
+    /*text-fill-color: transparent;*/
+
+}
+
+.kaku{
+    position: absolute;
+    width: 509px;
+    height: 30px;
+    left: 129px;
+    top: 867px;
+
+    /*font-family: 'TT Interfaces';*/
+    font-style: normal;
+    font-weight: 800;
+    font-size: 27px;
+    line-height: 30px;
+    /* identical to box height */
+
+    text-align: center;
+
+    color: #FFFFFF;
+
+}
+.div{
+    display: none;
+}
+.card{
+    position: absolute;
+    width: 390px;
+    height: 251px;
+    left: 156px;
+    top: 1014px;
+
+    background: linear-gradient(180deg, #1E2242 27.07%, rgba(30, 34, 66, 0) 100%);
+}
+.box{
+    margin-top: 700px;
+    background: linear-gradient(180deg, #0E112D 50%, rgba(14, 17, 45, 0) 100%);
+}
+.cardd{
+    position: absolute;
+    width: 390px;
+    height: 251px;
+    left: 156px;
+    top: 1314px;
+/*border: 2px solid white;*/
+    background: linear-gradient(180deg, #1E2242 27.07%, rgba(30, 34, 66, 0) 100%);
+}
+.carddd{
+    position: absolute;
+    width: 390px;
+    height: 251px;
+    left: 156px;
+    top: 1614px;
+    /*border: 2px solid white;*/
+    background: linear-gradient(180deg, #1E2242 27.07%, rgba(30, 34, 66, 0) 100%);
+}
+
+.plat{
+    position: absolute;
+    width: 370px;
+    height: 33px;
+    left: 45px;
+    top: 18px;
+    /*font-family: 'TT Interfaces';*/
+    font-style: normal;
+    font-weight: 800;
+    font-size: 26px;
+    line-height: 33px;
+display: none;
+    color: #FFFFFF;
+}
+.and{
+    position: absolute;
+    width: 173px;
+    height: 41px;
+    left: 228px;
+    top: 50px;
+
+    /*font-family: 'TT Interfaces';*/
+    font-style: normal;
+    font-weight: 800;
+    font-size: 43px;
+    line-height: 41px;
+
+    color: #FFFFFF;
+}
+.nash{
+    position: absolute;
+    width: 607px;
+    height: 85px;
+    left: 72px;
+    top: 185px;
+
+    /*font-family: 'TT Interfaces';*/
+    font-style: normal;
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 24px;
+
+    color: #ffffff;
+
+}
+.funk{
+    position: absolute;
+    width: 173px;
+    height: 41px;
+    left: 208px;
+    top: 299px;
+
+    /*font-family: 'TT Interfaces';*/
+    font-style: normal;
+    font-weight: 800;
+    font-size: 33px;
+    line-height: 41px;
+
+    color: #FFFFFF;
+}
+.wall{
+    position: absolute;
+    width: 606px;
+    height: 143px;
+    left: 72px;
+    top: 372px;
+
+    /*font-family: 'TT Interfaces';*/
+    font-style: normal;
+    font-weight: 500;
+    font-size: 19px;
+    line-height: 16px;
+    text-align: center;
+
+    color: #A7A7C8;
+
+}
+.olish{
+    position: absolute;
+    width: 186px;
+    height: 56px;
+    left: 257px;
+    top: 595px;
+
+    background: #564FFF;
+    border-radius: 5px;
+}
+
+.restangle{
+    background: linear-gradient(180deg, #0E112D 50%, rgba(14, 17, 45, 0) 100%);
+    margin-right: 50px;
+    margin-top: 1200px;
+}
+.ios{
+    position: absolute;
+    width: 53px;
+    height: 41px;
+    left: 323px;
+    top: 35px;
+
+    /*font-family: 'TT Interfaces';*/
+    font-style: normal;
+    font-weight: 800;
+    font-size: 36px;
+    line-height: 41px;
+
+    color: #FFFFFF;
+
+}
+
+.iosp{
+    position: absolute;
+    width: 597px;
+    height: 85px;
+    left: 72px;
+    top: 130px;
+
+    /*font-family: 'TT Interfaces';*/
+    font-style: normal;
+    font-weight: 500;
+    font-size: 23px;
+    line-height: 20px;
+
+    color: #A7A7C8;
+
+}
+
+.sam{
+    position: absolute;
+    left: 15.76%;
+    right: 22.16%;
+    top: 89.1%;
+    bottom: 39%;
+
+    /*background: url(80b774ce-9d9e-4255-8719-cb0e7e7c8588_Samsung-1.png);*/
+    mix-blend-mode: screen;
+    transform: rotate(1.6deg);
+
+}
+
+.tel{
+    position: absolute;
+    left: 50.76%;
+    right: 22.16%;
+    top: 89.1%;
+    bottom: 39%;
+border-radius: 25px;
+    /*background: url(80b774ce-9d9e-4255-8719-cb0e7e7c8588_Samsung-1.png);*/
+    mix-blend-mode: screen;
+    transform: rotate(1.6deg);
+}
+
+.funkh{
+    position: absolute;
+    width: 105px;
+    height: 21px;
+    left: 283px;
+    top: 381px;
+
+    /*font-family: 'TT Interfaces';*/
+    font-style: normal;
+    font-weight: 600;
+    font-size: 27px;
+    line-height: 21px;
+
+    color: #FFFFFF;
+
+}
+.funkp{
+    position: absolute;
+    width: 546px;
+    height: 143px;
+    left: 121px;
+    top: 423px;
+
+    /*font-family: 'TT Interfaces';*/
+    font-style: normal;
+    font-weight: 500;
+    font-size: 19px;
+    line-height: 21px;
+    text-align: center;
+
+    color: #A7A7C8;
+
+}
+.esli{
+    position: absolute;
+    width: 299px;
+    height: 36px;
+    left: 200px;
+    top: 687px;
+
+    /*font-family: 'TT Interfaces';*/
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 17px;
+    text-align: center;
+
+    color: #ffffff;
+}
+.olish1{
+    position: absolute;
+    width: 186px;
+    height: 56px;
+    left: 287px;
+    top: 652px;
+
+    background: #564FFF;
+    border-radius: 5px;
+}
+
+.esli1{
+    position: absolute;
+    width: 299px;
+    height: 36px;
+    left: 220px;
+    top: 720px;
+
+    /*font-family: 'TT Interfaces';*/
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+    text-align: center;
+
+    color: #A7A7C8;
+
+}
+
+.iphone{
+    position: absolute;
+    width: 213.81px;
+    height: 461.25px;
+    left: 100px;
+    top: 850px;
+
+    /*background: url(.png);*/
+}
+
+.iphone1{
+    position: absolute;
+    width: 213.81px;
+    height: 461.25px;
+    left: 400px;
+    top: 850px;
+}
+.tarifh{
+    position: absolute;
+    width: 373px;
+    height: 46px;
+    left: 198px;
+    top: 4824px;
+
+    /*font-family: 'TT Interfaces';*/
+    font-style: normal;
+    font-weight: 800;
+    font-size: 36px;
+    line-height: 46px;
+
+    color: #FFFFFF;
+}
+
+.avn{
+    position: absolute;
+    width: 199px;
+    height: 66px;
+    left: 152px;
+    top: 4910px;
+
+    background: #564FFF;
+    border-radius: 5px;
+}
+
+.avn1{
+    position: absolute;
+    width: 199px;
+    height: 66px;
+    left: 379px;
+    top: 4910px;
+
+    background: rgba(86, 79, 255, 0.25);
+    border: 1px solid #564FFF;
+    border-radius: 5px;
+}
+.tarif{
+
+
+    width: 326px;
+    height: 425px;
+
+    position: absolute;
+    top: 5100px;
+    left: 200px;
+}
+
+.tarif1{
+    width: 326px;
+    height: 425px;
+
+    position: absolute;
+    top: 5600px;
+    left: 200px;
+}
+
+.tarif2{
+    width: 326px;
+    height: 425px;
+
+    position: absolute;
+    top: 6100px;
+    left: 200px;
+}
+
+.kakie{
+    position: absolute;
+    width: 462px;
+    height: 33px;
+    left: 150px;
+    top: 6690px;
+
+    /*font-family: 'TT Interfaces';*/
+    font-style: normal;
+    font-weight: 800;
+    font-size: 29px;
+    line-height: 33px;
+
+    color: #FFFFFF;
+
+}
+
+.line{
+    position: absolute;
+    width: 534px;
+    height: 211px;
+    left: 102px;
+    top: 6800px;
+
+    background: linear-gradient(180deg, #1E2242 0%, #1E2242 100%);
+    border-radius: 5px;
+}
+.line h4{
+    position: absolute;
+    width: 358px;
+    height: 18px;
+    left: 57px;
+    top: 44px;
+
+    /*font-family: 'TT Interfaces';*/
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 18px;
+    /* identical to box height */
+
+
+    color: #FFFFFF;
+}
+
+.line p{
+    position: absolute;
+    width: 399px;
+    height: 80px;
+    left: 77px;
+    top: 85px;
+
+    /*font-family: 'TT Interfaces';*/
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 20px;
+
+    color: #A7A7C8;
+
+}
+.line1{
+    position: absolute;
+    width: 534px;
+    height: 101px;
+    left: 102px;
+    top: 7040px;
+
+    background: linear-gradient(180deg, #1E2242 0%, #1E2242 100%);
+    border-radius: 5px;
+}
+
+.line1 h4{
+    position: absolute;
+    width: 468px;
+    height: 18px;
+    left: 57px;
+    top: 44px;
+
+    /*font-family: 'TT Interfaces';*/
+    font-style: normal;
+    font-weight: 600;
+    font-size: 23px;
+    line-height: 18px;
+    /* identical to box height */
+
+
+    color: #FFFFFF;
+}
+.h1c{
+   display: none;
+
+
+}
+.line2{
+    position: absolute;
+    width: 534px;
+    height: 101px;
+    left: 102px;
+    top: 7170px;
+
+    background: linear-gradient(180deg, #1E2242 0%, #1E2242 100%);
+    border-radius: 5px;
+}
+.line2 h4{
+    position: absolute;
+    width: 468px;
+    height: 18px;
+    left: 57px;
+    top: 44px;
+
+    /*font-family: 'TT Interfaces';*/
+    font-style: normal;
+    font-weight: 600;
+    font-size: 23px;
+    line-height: 18px;
+    /* identical to box height */
+}
+
+.line3{
+    position: absolute;
+    width: 534px;
+    height: 101px;
+    left: 102px;
+    top: 7299px;
+
+    background: linear-gradient(180deg, #1E2242 0%, #1E2242 100%);
+    border-radius: 5px;
+}
+.line3 h4{
+    position: absolute;
+    width: 468px;
+    height: 18px;
+    left: 57px;
+    top: 44px;
+
+    /*font-family: 'TT Interfaces';*/
+    font-style: normal;
+    font-weight: 600;
+    font-size: 23px;
+    line-height: 18px;
+    /* identical to box height */
+}
+.line4{
+    display: none;
+}
+.line2 h1{
+    display: none;
+}
+.line3 h1{
+    display: none;
+}
+.bt{
+    position: absolute;
+    width: 181px;
+    height: 64px;
+    left: 269px;
+    top: 7508px;
+
+    background: #564FFF;
+    border: 1px solid #564FFF;
+    border-radius: 5px;
+}
+
+.finish{
+    position: absolute;
+    width: 399px;
+    height: 36px;
+    left: 140px;
+    top: 7599px;
+
+    /*font-family: 'TT Interfaces';*/
+    font-style: normal;
+    font-weight: 700;
+    font-size: 17px;
+    line-height: 18px;
+    text-align: center;
+
+    color: #ffffff;
+
+}
+}

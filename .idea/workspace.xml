@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4e439a2b-a5a8-4080-a193-b8a73f6b941b" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2OT2naXRpV0dVFDaVHH3oUi3JAW" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\user\WebstormProjeсе\RedRock project" />
+      <recent name="C:\Users\user\WebstormProjeсе\RedRock project\assest\isons" />
+      <recent name="C:\Users\user\WebstormProjeсе\RedRock project\assest\imgs" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4e439a2b-a5a8-4080-a193-b8a73f6b941b" name="Default Changelist" comment="" />
+      <created>1681570418567</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1681570418567</updated>
+      <workItem from="1681570419781" duration="10155000" />
+      <workItem from="1681629180370" duration="3696000" />
+      <workItem from="1681646528091" duration="3490000" />
+      <workItem from="1681719181150" duration="4277000" />
+      <workItem from="1681810777987" duration="1664000" />
+      <workItem from="1681985668031" duration="275000" />
+      <workItem from="1681986377588" duration="450000" />
+      <workItem from="1682596437857" duration="148000" />
+      <workItem from="1682686064567" duration="56000" />
+      <workItem from="1684509044068" duration="674000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
